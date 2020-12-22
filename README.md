@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![computer_keyboard_co_CKHo8](https://user-images.githubusercontent.com/56345107/102927848-cbd72080-44a8-11eb-90d0-15967f551942.jpg)
+
+- ⚡ My blogs on [Medium](https://medium.com/@batu.cimenn)
