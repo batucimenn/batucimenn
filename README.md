@@ -1,32 +1,36 @@
 <h1>Hi 👋</h1>
 
 <h2><i>Follow me around the web:</i><br></h2>
-
-<p align="center" align='left' align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi">
-    <img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ileriayooo">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="mailto:batu.cimenn@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/batu_cimenn" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="twitter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/batu.cimenn" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="linkedIn"/>
+  </a>&nbsp;&nbsp;  
+  <a href="https://medium.com/@batu.cimenn" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="medium"/>
+  </a> &nbsp;&nbsp;
+  <a href="https://dev.to/ileriayo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="dev.to" /> 
+  </a>
+  
 </p>
+
+<hr>
+
 <hr>
 <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" />
 <hr>
 <h2>GitHub Stats</h2>
 
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27)
-
-![Batuhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3)  
+![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27) ![Batuhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3)  
 
   ## ⚡ Technologies
    <p>
