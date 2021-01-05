@@ -1,38 +1,34 @@
 <h1>Hi 👋</h1>
 
-<h2><i>Follow me around the web:</i><br></h2>
+<hr>
+
 <p align="center">
-  <a href="mailto:batu.cimenn@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="gmail" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://twitter.com/batu_cimenn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="twitter"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://instagram.com/batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="instagram"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="linkedIn"/>
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;  
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="medium"/>
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;
   <a href="https://dev.to/ileriayo" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="dev.to" /> 
-  </a>
-  
+  </a>  
 </p>
 
 <hr>
 
-<hr>
-<img src="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" />
-<hr>
-<h2>GitHub Stats</h2>
+<h2>GitHub Stats</h2>   <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" />
+ <img src="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27" alt="Batu's GitHub Stats"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batu's Top Languages"/>  
 
-![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27) ![Batuhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3)  
-
-  ## ⚡ Technologies
+<h2>⚡ Technologies</h2>
    <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -50,7 +46,8 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 
   </p>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 
