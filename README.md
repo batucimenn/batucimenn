@@ -3,7 +3,7 @@
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=batucimenn&amp;show_icons=true" alt="GitHub Stats"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&layout=compact)](https://github.com/batucimenn/github-readme-stats)
 
 ####
 
@@ -206,3 +206,27 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+###
+
+![Erdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erdaltsksn&hide_border=true&show_icons=true&count_private=true&line_height=27)
+![Erdal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erdaltsksn&hide_border=true&show_icons=true&langs_count=3)
+
+##
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
+
+[![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiturali" alt="ezgiturali" /> </p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+
+![Ishak's github stats](https://github-readme-stats.vercel.app/api?username=ishakdolek)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishak-dölek/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ishakdolek)
+[![](https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ishakdolek)
+
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
