@@ -63,6 +63,23 @@
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
 
+div.container2 {
+        border: 1px solid #000000;
+        overflow: hidden;
+        width: 100%;
+        text-align: center;
+       
+}
+div.sol2 {
+        width: 50%;
+        float: left;
+        
+}
+div.sag2 {
+        width: 50%;
+        float: left;
+       
+}
 <div class="container2" style="overflow: hidden; width: 100%;">
     <div class="sol2">
            <h2>aa</h2>
