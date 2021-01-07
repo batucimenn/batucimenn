@@ -2,8 +2,8 @@
 <hr>
 <h2>GitHub Stats</h2>   
 <p>
- <img align = " center" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs&theme=great-gatsby" alt="Batuhan's GitHub Stats"/>
- <img align = " center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3&theme=great-gatsby&line_height=27" alt="Batuhan's Top Languages"/>  
+ <img align = " center" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs&theme=buefy" alt="Batuhan's GitHub Stats"/>
+ <img align = " center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3&theme=buefy&line_height=27" alt="Batuhan's Top Languages"/>  
 
 
 
