@@ -1,11 +1,6 @@
 <h1>Hi, I'm Batuhan 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
 <hr>
-<h2>GitHub Stats &#x1f4c8;</h2> 
-<p>
- <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
- <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
-</p>
-<hr>
+
 <h2>Technologies ⚡</h2>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -36,9 +31,14 @@
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- 
- 
-</p>   
+</p> 
+<hr>
+<h2>GitHub Stats &#x1f4c8;</h2> 
+<p>
+ <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
+ <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
+</p>
+  
 <hr>
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
