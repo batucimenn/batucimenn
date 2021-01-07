@@ -1,8 +1,10 @@
 <h1>Hi 👋</h1>
+<hr>
 <h2>GitHub Stats</h2>   <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" />
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27" alt="Batu's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batu's Top Languages"/>  
 </p>
+<hr>
 <h2>⚡ Technologies</h2>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
