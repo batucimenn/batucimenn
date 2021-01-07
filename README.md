@@ -21,16 +21,16 @@
   <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> 
  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
- <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/>
- 
+ <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/> 
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+ 
+ <img src="https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"/>
+ <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"/>
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -39,7 +39,6 @@
  
  
 </p>   
-<img src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views" />
 <hr>
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
@@ -64,4 +63,11 @@
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
 
-
+<div class="container2" style="overflow: hidden; width: 100%;">
+    <div class="sol2">
+           <h2>aa</h2>
+    </div>
+    <div class="sag2">
+        <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="100" height="100"> 
+    </div>
+</div>
