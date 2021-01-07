@@ -45,37 +45,20 @@
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="gmail" />
   </a>&nbsp;
   <a href="https://twitter.com/batu_cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=#1DA1F2C" alt="twitter"/>
   </a>&nbsp;
   <a href="https://instagram.com/batu.cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="instagram"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=red" alt="instagram"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="linkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=yellow" alt="linkedIn"/>
   </a>&nbsp;  
   <a href="https://medium.com/@batu.cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="medium"/>
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=blue" alt="medium"/>
   </a> &nbsp;
   <a href="https://dev.to/ileriayo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C" alt="dev.to" /> 
+    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=pink" alt="dev.to" /> 
   </a>  
 </p>
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
-
-
-<p align="center" width= "100%">
-    <p align="left"  width = "50%">
-      <h2> GitHub Stats </h2>
-    </p>
-    <p align="right" width= "50%">
-     <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="113" height="20"> 
-    </p>    
-</p>
-<hr>
-
-
-
-
-
-
