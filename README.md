@@ -91,7 +91,7 @@ div.sag2 {
 </head>
 <body>
 <div class="container2" style="overflow: hidden; width: 100%;">
-    <div class="sol2"><h2>Aslı Akkaya</h2></div>
+    <div class="sol2"><h2>Computer Engineer</h2></div>
     <div class="sag2">
         <img src="https://www.google.com/search?q=img_girl.jpg&client=firefox-b-d&sxsrf=ALeKk00_xD0dzwbCGT7qWl-KKnJqvrbRBw:1610029041841&tbm=isch&source=iu&ictx=1&fir=HQ58V3C85x73-M%252Cw0pCnpHsFs4H9M%252C_&vet=1&usg=AI4_-kQMabQAEBwhYdh7utQzf8nFaoYfAg&sa=X&ved=2ahUKEwj1sPfIgYruAhVh8OAKHYnAAIkQ9QF6BAgNEAE&biw=1304&bih=666#imgrc=HQ58V3C85x73-M"  width="100" height="100"> 
     </div>
