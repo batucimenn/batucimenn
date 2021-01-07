@@ -64,11 +64,11 @@
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
 
 
-<p align="center" style="overflow=hidden" width= "100">
-    <p align="left"  width= "50">
-           <h2>aa</h2>
+<p align="center" width= "100%">
+    <p align="left"  width= "50%">
+           <h2>aa <p align="right" width= "50%">
+        <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="113" height="20"> 
+    </p></h2>
     </p>
-    <p align="right" width= "50">
-        <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="100" height="100"> 
-    </p>
+    
 </p>
