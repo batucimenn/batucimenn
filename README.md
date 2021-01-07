@@ -1,5 +1,12 @@
-<h1>Hi, I'm Batuhan 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
+<h1>Hi 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
 <hr>
+
+<p align="center">
+  <samp>I am Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
 
 <h2>Technologies ⚡</h2>
 <p>
@@ -40,12 +47,12 @@
 </p>  
 <hr>
 <p align="center">
-  <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
+  <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D4493E" alt="gmail" />
-  </a>
+  </a>&nbsp;
   <a href="https://twitter.com/batu_cimenn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="twitter"/>
-  </a><a>&nbsp;</a>
+  </a>&nbsp;
   <a href="https://instagram.com/batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=D62E70" alt="instagram"/>
   </a>&nbsp;
@@ -54,7 +61,7 @@
   </a>&nbsp;&nbsp; & &nbsp;&nbsp;
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=grey" alt="medium"/>
-  </a>&nbsp; 
+  </a>&nbsp;                                            
   <a href="https://dev.to/ileriayo" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" alt="dev.to" /> 
   </a>&nbsp; 
