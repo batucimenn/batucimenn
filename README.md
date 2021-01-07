@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedIn"/>
   </a>&nbsp; 
   <a href="https://medium.com/@batu.cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=black&color=FFFFFF" alt="medium"/>
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=black&color=FFFFFF&style="border:dashed"" alt="medium"/>
   </a> &nbsp;
   <a href="https://dev.to/ileriayo" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" alt="dev.to" /> 
