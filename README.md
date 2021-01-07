@@ -4,8 +4,6 @@
 <p align="center">
   <samp>I am Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.
   </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
 
 <h2>Technologies ⚡</h2>
