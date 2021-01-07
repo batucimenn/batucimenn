@@ -1,14 +1,11 @@
 <h1>Hi, I'm Batuhan 👋</h1>
 <hr>
-<h2>GitHub Stats</h2>   
+<p>
+<summary><h2>Click for GitHub Stats</h2></summary> &nbsp;&nbsp;&nbsp; <img src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" />
+</p>
 <p>
  <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
- <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3&line_height=27" alt="Batuhan's Top Languages"/>  
-
-
-
- 
-
+ <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
 </p>
 <hr>
 <h2>⚡ Technologies</h2>
@@ -28,7 +25,7 @@
  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
  <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/>
  
- <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -42,7 +39,7 @@
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
  
- <br><img src="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn" /></br>
+ 
 </p>   
 <hr>
 <p align="center">
