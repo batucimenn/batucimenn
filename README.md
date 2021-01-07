@@ -1,12 +1,12 @@
 <h1>Hi, I'm Batuhan 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
 <hr>
-<h2>GitHub Stats</h2> 
+<h2>GitHub Stats &#x1f4c8;</h2> 
 <p>
  <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
 </p>
 <hr>
-<h2>⚡ Technologies</h2>
+<h2>Technologies ⚡</h2>
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -52,7 +52,7 @@
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedIn"/>
-  </a>&nbsp;&nbsp; | &nbsp;&nbsp;
+  </a>&nbsp;&nbsp; --> &nbsp;&nbsp;
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=grey" alt="medium"/>
   </a> &nbsp;
