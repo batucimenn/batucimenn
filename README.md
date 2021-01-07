@@ -1,6 +1,6 @@
 <h1>Hi, I'm Batuhan 👋</h1>
 <hr>
-<h2>GitHub Stats <img align="right" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views" /></h2> 
+<h2>GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views" /></h2> 
 <p>
  <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
