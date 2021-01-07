@@ -66,7 +66,7 @@
 
 <p align="center" width= "100%">
     <p align="left"  width = "50%">
-      <h2>aa </h2>
+      <h2> GitHub Stats </h2>
     </p>
     <p align="right" width= "50%">
      <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="113" height="20"> 
