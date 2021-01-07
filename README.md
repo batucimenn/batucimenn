@@ -42,22 +42,22 @@
 <hr>
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="gmail" />
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D4493E" alt="gmail" />
   </a>&nbsp;
   <a href="https://twitter.com/batu_cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=#1DA1F2C" alt="twitter"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="twitter"/>
   </a>&nbsp;
   <a href="https://instagram.com/batu.cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=red" alt="instagram"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=D62E70" alt="instagram"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=yellow" alt="linkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedIn"/>
   </a>&nbsp;  
   <a href="https://medium.com/@batu.cimenn" target="_blank">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=blue" alt="medium"/>
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=black&color=FFFFFF" alt="medium"/>
   </a> &nbsp;
   <a href="https://dev.to/ileriayo" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=pink" alt="dev.to" /> 
+    <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" alt="dev.to" /> 
   </a>  
 </p>
 <hr>
