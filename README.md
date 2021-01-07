@@ -63,28 +63,12 @@
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
 
-div.container2 {
-        border: 1px solid #000000;
-        overflow: hidden;
-        width: 100%;
-        text-align: center;
-       
-}
-div.sol2 {
-        width: 50%;
-        float: left;
-        
-}
-div.sag2 {
-        width: 50%;
-        float: left;
-       
-}
-<div class="container2" style="overflow: hidden; width: 100%;">
-    <div class="sol2">
+
+<p align="center" style="overflow=hidden" width= "100">
+    <p align="left"  width= "50">
            <h2>aa</h2>
-    </div>
-    <div class="sag2">
+    </p>
+    <p align="right" width= "50">
         <img src="https://komarev.com/ghpvc/?username=batucimenn" alt="Girl in a jacket" width="100" height="100"> 
-    </div>
-</div>
+    </p>
+</p>
