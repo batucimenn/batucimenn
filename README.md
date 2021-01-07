@@ -52,7 +52,7 @@
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedIn"/>
-  </a>&nbsp;&nbsp; --> &nbsp;&nbsp;
+  </a>&nbsp;&nbsp; & &nbsp;&nbsp;
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=grey" alt="medium"/>
   </a> &nbsp;
