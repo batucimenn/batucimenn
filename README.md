@@ -74,27 +74,14 @@
 </p>
 <hr>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<style>
 
-div.sol2 {
-        width: 50%;float: left;        
-}
-div.sag2 {
-        width: 50%;float: left;       
-}
-</style>
-</head>
-<body>
+
 <div  style="overflow: hidden; width: 100%;  border: 1px solid #000000;overflow: hidden;width: 100%;text-align: center;   ">
     <div style="width: 50%;float: left;   "><h2>Computer Engineer</h2></div>
     <div style=" width: 50%;float: right; ">
         <img src="https://www.google.com/search?q=img_girl.jpg&client=firefox-b-d&sxsrf=ALeKk00_xD0dzwbCGT7qWl-KKnJqvrbRBw:1610029041841&tbm=isch&source=iu&ictx=1&fir=HQ58V3C85x73-M%252Cw0pCnpHsFs4H9M%252C_&vet=1&usg=AI4_-kQMabQAEBwhYdh7utQzf8nFaoYfAg&sa=X&ved=2ahUKEwj1sPfIgYruAhVh8OAKHYnAAIkQ9QF6BAgNEAE&biw=1304&bih=666#imgrc=HQ58V3C85x73-M"  width="100" height="100"> 
     </div>
 </div>
-    </body>
-</html>
+
 
 
