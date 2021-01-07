@@ -33,20 +33,19 @@
  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p> 
 <hr>
-<h2>GitHub Stats &#x1f4c8;</h2> 
+<h2>&#x1f4c8; GitHub Stats</h2> 
 <p>
- <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
- <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>  
-</p>
-  
+  <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
+  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>   
+</p>  
 <hr>
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D4493E" alt="gmail" />
-  </a>&nbsp;
+  </a>
   <a href="https://twitter.com/batu_cimenn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="twitter"/>
-  </a>&nbsp;
+  </a><a>&nbsp;</a>
   <a href="https://instagram.com/batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=D62E70" alt="instagram"/>
   </a>&nbsp;
@@ -55,10 +54,10 @@
   </a>&nbsp;&nbsp; & &nbsp;&nbsp;
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=grey" alt="medium"/>
-  </a> &nbsp;
+  </a>&nbsp; 
   <a href="https://dev.to/ileriayo" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" alt="dev.to" /> 
-  </a>  
+  </a>&nbsp; 
 </p>
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
