@@ -7,9 +7,9 @@
 <hr>
 <h2>🛠 Tech Stack </h2>
 <p>
-  <img src="https://img.shields.io/badge/-Java-016F8C?style=plastic-square&logo=java&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-C%20Sharp-7D2E80?style=plastic-square&logo=C-Sharp&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Python-346B9A?style=plastic-square&logo=python&logoColor=white"/>&nbsp;  
+  <img src="https://img.shields.io/badge/-C%20Sharp-7D2E80?style=plastic-square&logo=C-Sharp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Java-016F8C?style=plastic-square&logo=java&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic-square&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-PHP-7377AD?style=plastic-square&logo=php&logoColor=white"/>&nbsp;
@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic-square&logo=git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Github-181717?style=plastic-square&logo=github&logoColor=white"/>&nbsp;  
   <img src="https://img.shields.io/badge/-MongoDB-289E44?style=plastic-square&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-6C7277?style=plastic-square&logo=jupyter&logoColor=white"/>&nbsp;  
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/>&nbsp;     
   <img src="https://img.shields.io/badge/-Visual%20Studio-641A77?style=plastic&logo=visual-studio&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Anaconda-41AA29?style=plastic&logo=anaconda&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-6C7277?style=plastic-square&logo=jupyter&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Eclipse-494570?style=plastic&logo=eclipse&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Arduino-009297?style=plastic&logo=arduino&logoColor=white"/>&nbsp; 
    <img src="https://img.shields.io/badge/-Xampp-E1702D?style=plastic&logo=xampp&logoColor=white"/>&nbsp;
