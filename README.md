@@ -7,10 +7,10 @@
 <hr>
 <h2>🛠 Tech Stack </h2>
 <p>
-  <img src="https://img.shields.io/badge/-java-E34A86?style=plastic-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-C#-E34A86?style=plastic-square&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/-Java-016F8C?style=plastic-square&logo=java&logoColor=EE9309"/>
+  <img src="https://img.shields.io/badge/-C%Sharp-239120?style=plastic-square&logo=C-Sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-E34A86?style=plastic-square&logo=python"/>
-  <img src="https://img.shields.io/badge/-Jupyter Notebook-E34A86?style=plastic-square&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/-Jupyter%Notebook-E34A86?style=plastic-square&logo=jupyter"/>
   
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic-square&logo=css3&logoColor=white"/>
@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/> 
   
-  <img src="https://img.shields.io/badge/-xampp-641A77?style=plastic&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Xampp-641A77?style=plastic&logo=xampp&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/-Visual Studio-641A77?style=plastic&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Anaconda-641A77?style=plastic&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Eclipse-641A77?style=plastic&logo=eclipse&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-Arduino-641A77?style=plastic&logo=arduino&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic-square&logo=microsoft-azure"/> 
+  <img src="https://img.shields.io/badge/Microsoft%Azure-232F7E?style=plastic-square&logo=microsoft-azure"/> 
   
  
   <img src="https://img.shields.io/badge/-Debian-A80030?style=plastic-square&logo=debian&logoColor=white"/> 
