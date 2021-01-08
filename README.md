@@ -19,15 +19,14 @@
   <img src="https://img.shields.io/badge/-MongoDB-289E44?style=plastic-square&logo=mongodb&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/>&nbsp;     
   <img src="https://img.shields.io/badge/-Visual%20Studio-641A77?style=plastic&logo=visual-studio&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Anaconda-41AA29?style=plastic&logo=anaconda&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Jupyter%20Notebook-6C7277?style=plastic-square&logo=jupyter&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Anaconda-41AA29?style=plastic&logo=anaconda&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Eclipse-494570?style=plastic&logo=eclipse&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Arduino-009297?style=plastic&logo=arduino&logoColor=white"/>&nbsp; 
-   <img src="https://img.shields.io/badge/-Xampp-E1702D?style=plastic&logo=xampp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Xampp-E1702D?style=plastic&logo=xampp&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic-square&logo=microsoft-azure&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Debian-A80030?style=plastic-square&logo=debian&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-black?&logo=Linux&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/-Linux-black?&logo=Linux&logoColor=white"/>  
 </p> 
 <hr>
 <h2>⚙️ GitHub Analytics</h2> 
