@@ -1,28 +1,26 @@
-<h1>Hi 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
-<hr>
-
+<h1>Hi there 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
 <p align="center">
   <samp>I am Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.
   </samp>
 </p>
-
+<hr>
 <h2>Technologies ⚡</h2>
 <p>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> 
- <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
- <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/> 
- <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
-
+  - 🚀 I use daily: <img src="https://img.shields.io/badge/-Visual Studio-641A77?style=plastic-square&logo=visual-studio&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/-Github-181717?style=plastic-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Trello-0079BF?style=plastic-square&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Debian-A80030?style=plastic-square&logo=Debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=plastic-square&logo=Google%20Cloud&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-java-E34A86?style=plastic-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic-square&logo=bootstrap"/> 
+ <img src="https://img.shields.io/badge/-MongoDB-black?style=plastic-square&logo=mongodb"/>
+ <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic-square&logo=microsoft-azure"/> 
+ <img src="https://img.shields.io/badge/-Python-black?style=plastic-square&logo=Python"/>
 </p> 
 <hr>
 <h2>&#x1f4c8; GitHub Stats</h2> 
