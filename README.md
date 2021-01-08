@@ -1,13 +1,12 @@
 <div>
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h1>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h2>
 </div>
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <coder/>!  👋
 <p align="center">
-  <samp>I'm Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.
-  </samp>
+  <samp>I'm Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.</samp>
 </p>
 <hr>
-<h2>Technologies ⚡</h2>
+<h2>⚡ Technologies & Tools </h2>
 <p>
   <img src="https://img.shields.io/badge/-java-E34A86?style=plastic-square&logo=java"/>
   <img src="https://img.shields.io/badge/-C#-E34A86?style=plastic-square&logo=csharp"/>
@@ -30,15 +29,16 @@
   
   <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic-square&logo=microsoft-azure"/> 
   
-  <img src="https://img.shields.io/badge/-Trello-0079BF?style=plastic-square&logo=trello&logoColor=white"/>
  
   <img src="https://img.shields.io/badge/-Debian-A80030?style=plastic-square&logo=debian&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624"/> 
+  
 </p> 
 <hr>
 <h2>&#x1f4c8; GitHub Stats</h2> 
 <p>
-  <img style="margin:20" align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
-  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>   
+  <img style="margin:20" align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs&theme=dark" alt="Batuhan's GitHub Stats"/>
+  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3&theme=dark" alt="Batuhan's Top Languages"/>   
 </p>  
 <hr>
 <p align="center">
