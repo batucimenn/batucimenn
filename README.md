@@ -6,7 +6,7 @@
 <hr>
 <h2>Technologies ⚡</h2>
 <p>
-  - 🚀 I use daily: <img src="https://img.shields.io/badge/-Visual Studio-641A77?style=plastic-square&logo=visual-studio&logoColor=white"/>
+  - 🚀 I use daily: <img src="https://img.shields.io/badge/-Visual Studio-641A77?style=plastic&logo=visual-studio&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/-Github-181717?style=plastic-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic-square&logo=Git&logoColor=white"/>
