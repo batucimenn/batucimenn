@@ -1,7 +1,6 @@
 <div>
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h2>
 </div>
-<h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <coder/>!  👋
 <p align="center">
   <samp>I'm Batuhan, people call me Batu, currently pursuing my bachelor's degree majoring in Computer Engineering from Balikesir University.</samp>
 </p>
@@ -36,9 +35,14 @@
 </p> 
 <hr>
 <h2>&#x1f4c8; GitHub Stats</h2> 
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
 <p>
-  <img style="margin:20" align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs&theme=dark" alt="Batuhan's GitHub Stats"/>
-  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3&theme=dark" alt="Batuhan's Top Languages"/>   
+  <img align = "center" width="500" height="200" src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
+  <img align = "center" width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>   
 </p>  
 <hr>
 <p align="center">
