@@ -17,16 +17,16 @@
   <img src="https://img.shields.io/badge/-Git-F44D27?style=plastic-square&logo=git&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/-Github-181717?style=plastic-square&logo=github&logoColor=white"/>&nbsp;  
   <img src="https://img.shields.io/badge/-MongoDB-289E44?style=plastic-square&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/>&nbsp;     
-  <img src="https://img.shields.io/badge/-Visual%20Studio-641A77?style=plastic&logo=visual-studio&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic-square&logo=mysql&logoColor=white"/>&nbsp;      
   <img src="https://img.shields.io/badge/-Jupyter%20Notebook-6C7277?style=plastic-square&logo=jupyter&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Anaconda-41AA29?style=plastic&logo=anaconda&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-Eclipse-494570?style=plastic&logo=eclipse&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-Arduino-009297?style=plastic&logo=arduino&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/-Xampp-E1702D?style=plastic&logo=xampp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Anaconda-41AA29?style=plastic-square&logo=anaconda&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio-641A77?style=plastic-square&logo=visual-studio&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Eclipse-494570?style=plastic-square&logo=eclipse&logoColor=white"/>&nbsp; 
+  <img src="https://img.shields.io/badge/-Arduino-009297?style=plastic-square&logo=arduino&logoColor=white"/>&nbsp; 
+  <img src="https://img.shields.io/badge/-Xampp-E1702D?style=plastic-square&logo=xampp&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic-square&logo=microsoft-azure&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Debian-A80030?style=plastic-square&logo=debian&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-black?&logo=Linux&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/-Linux-black?style=plastic-square&logo=Linux&logoColor=white"/>  
 </p> 
 <hr>
 <h2>⚙️ GitHub Analytics</h2> 
