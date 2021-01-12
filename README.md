@@ -2,7 +2,9 @@
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="110" height="22" src ="https://komarev.com/ghpvc/?username=batucimenn" alt="batucimenn Profile Views"/></h2>
 </div>
 <p align="center">
-  <samp>I am Batuhan. I'm a final year student pursuing Bachelors in Computer Engineering from Balikesir University. I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. I’m currently learning data science and working on tweet analysis.</samp>
+  <samp>I am Batuhan. I'm a final year student pursuing Bachelors in Computer Engineering from Balikesir University. I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. I’m currently learning data science and working on tweet analysis.  
+ <p align="center"> Because the people who are crazy enough to think they can change the world, are the ones who do..  🎯</p>
+  </samp>
 </p>
 <hr>
 <h2>🛠 Tech Stack </h2>
