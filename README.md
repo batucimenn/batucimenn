@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   <samp>I am Batuhan. I'm a final year student pursuing Bachelors in Computer Engineering from Balikesir University. I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. I’m currently learning data science and working on tweet analysis.  
- <p align="center"> Because the people who are crazy enough to think they can change the world, are the ones who do..  🎯</p>
+ <p align="center"><b>Because the people who are crazy enough to think they can change the world, are the ones who do..  🎯</b></p>
   </samp>
 </p>
 <hr>
