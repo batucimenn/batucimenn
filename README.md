@@ -34,7 +34,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <hr>
 <h2>⚙️ GitHub Analytics</h2> 
 <p align = "center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
+  <img src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=40&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>   
 </p>    
 <hr>
