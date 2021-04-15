@@ -41,7 +41,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D4493E" alt="gmail" />
-  </a>&nbsp;
+  </a>&nbsp;&nbsp; & &nbsp;&nbsp;
   <a href="https://twitter.com/batu_cimenn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="twitter"/>
   </a>&nbsp;
