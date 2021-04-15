@@ -35,28 +35,28 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <h2>⚙️ GitHub Analytics</h2> 
 <p align = "center">
   <img src ="https://github-readme-stats.vercel.app/api?username=batucimenn&hide_border=true&show_icons=true&count_private=true&line_height=27&hide=issues,contribs" alt="Batuhan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=3" alt="Batuhan's Top Languages"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucimenn&hide_border=true&show_icons=true&langs_count=5" alt="Batuhan's Top Languages"/>   
 </p>    
 <hr>
 <p align="center">
   <a href="mailto:batu.cimenn@gmail.com?subject=Hello, From Github" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D4493E" alt="gmail" />
-  </a>&nbsp;
+  </a>
   <a href="https://twitter.com/batu_cimenn" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="twitter"/>
-  </a>&nbsp;
+  </a>
   <a href="https://instagram.com/batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=D62E70" alt="instagram"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/batucimenn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="linkedIn"/>
   </a>&nbsp;&nbsp; & &nbsp;&nbsp;
   <a href="https://medium.com/@batu.cimenn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=grey" alt="medium"/>
-  </a>&nbsp;                                            
+  </a>                                          
   <a href="https://dev.to/batucimenn" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" alt="dev.to" /> 
-  </a>&nbsp; 
+  </a> 
 </p>
 <hr>
 <h2  align="center"> ⬇️ Check Out My Repos ⬇️</h2>
