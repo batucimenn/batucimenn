@@ -2,7 +2,7 @@
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/batucimenn/batucimenn/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="70" height="21" src ="https://visitor-badge.glitch.me/badge?page_id=batucimenn.batucimenn" alt="batucimenn Profile Views"/></h2>
 </div>
 <p align="center">
-  <samp>I am Batuhan. I'm a final year student pursuing Bachelors in Computer Engineering from Balikesir University. I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. I’m currently learning data science and working on tweet analysis. 
+  <samp>I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. Currently, I continue to develop myself in the field of data science. I work on sentiment analysis and network analysis. 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.  
  <p align="center"><b>Because the people who are crazy enough to think they can change the world, are the ones who do..  🎯</b></p>
   </samp>
