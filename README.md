@@ -1,5 +1,5 @@
 <div>
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! &nbsp; <img src="https://github.com/batucimenn/batucimenn/blob/main/hi.gif" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align = "right" width="70" height="21" src ="https://visitor-badge.glitch.me/badge?page_id=batucimenn.batucimenn" alt="batucimenn Profile Views"/></h2>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 <p align="center">
   <samp>I graduated from Computer Engineering. I like programming, chess(<a href="https://lichess.org/@/AnqaraLy06" target="_blank">Lichess</a>) and always want to learn new things. Currently, I am interested in data mining methods and methodologies. I have worked on many projects in this field. I have extensively used classification and clustering operations with machine learning algorithms. I also did social network analysis and visualization with Gephi program. I continue to improve myself. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.  
